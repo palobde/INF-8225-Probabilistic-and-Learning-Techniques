@@ -1,0 +1,12 @@
+3 Convoluational Layer
+valid set: Average loss: 0.3797, Accuracy: 5130/6000 (86%)
+valid set: Average loss: 0.2912, Accuracy: 5351/6000 (89%)
+valid set: Average loss: 0.2629, Accuracy: 5405/6000 (90%)
+valid set: Average loss: 0.2505, Accuracy: 5434/6000 (91%)
+valid set: Average loss: 0.2332, Accuracy: 5495/6000 (92%)
+valid set: Average loss: 0.2283, Accuracy: 5488/6000 (91%)
+valid set: Average loss: 0.2226, Accuracy: 5507/6000 (92%)
+valid set: Average loss: 0.2380, Accuracy: 5496/6000 (92%)
+valid set: Average loss: 0.2220, Accuracy: 5494/6000 (92%)
+valid set: Average loss: 0.2205, Accuracy: 5511/6000 (92%)
+test set: Average loss: 0.2455, Accuracy: 9118/10000 (91%)

@@ -1,0 +1,1003 @@
+3 Convoluational Layer
+
+valid set: Average loss: 0.6998, Accuracy: 4414/6000 (74%)
+
+valid set: Average loss: 0.6084, Accuracy: 4678/6000 (78%)
+
+valid set: Average loss: 0.5155, Accuracy: 4841/6000 (81%)
+
+valid set: Average loss: 0.4551, Accuracy: 5008/6000 (83%)
+
+valid set: Average loss: 0.4364, Accuracy: 5009/6000 (83%)
+
+valid set: Average loss: 0.4059, Accuracy: 5083/6000 (85%)
+
+valid set: Average loss: 0.3649, Accuracy: 5199/6000 (87%)
+
+valid set: Average loss: 0.3741, Accuracy: 5180/6000 (86%)
+
+valid set: Average loss: 0.3414, Accuracy: 5234/6000 (87%)
+
+valid set: Average loss: 0.3490, Accuracy: 5222/6000 (87%)
+
+valid set: Average loss: 0.3303, Accuracy: 5244/6000 (87%)
+
+valid set: Average loss: 0.3468, Accuracy: 5221/6000 (87%)
+
+valid set: Average loss: 0.3404, Accuracy: 5257/6000 (88%)
+
+valid set: Average loss: 0.3281, Accuracy: 5267/6000 (88%)
+
+valid set: Average loss: 0.3205, Accuracy: 5307/6000 (88%)
+
+valid set: Average loss: 0.3097, Accuracy: 5331/6000 (89%)
+
+valid set: Average loss: 0.3050, Accuracy: 5321/6000 (89%)
+
+valid set: Average loss: 0.2859, Accuracy: 5337/6000 (89%)
+
+valid set: Average loss: 0.3026, Accuracy: 5356/6000 (89%)
+
+valid set: Average loss: 0.2892, Accuracy: 5345/6000 (89%)
+
+valid set: Average loss: 0.2860, Accuracy: 5373/6000 (90%)
+
+valid set: Average loss: 0.2851, Accuracy: 5353/6000 (89%)
+
+valid set: Average loss: 0.2844, Accuracy: 5392/6000 (90%)
+
+valid set: Average loss: 0.2819, Accuracy: 5376/6000 (90%)
+
+valid set: Average loss: 0.2701, Accuracy: 5417/6000 (90%)
+
+valid set: Average loss: 0.2616, Accuracy: 5423/6000 (90%)
+
+valid set: Average loss: 0.2698, Accuracy: 5406/6000 (90%)
+
+valid set: Average loss: 0.2708, Accuracy: 5406/6000 (90%)
+
+valid set: Average loss: 0.2694, Accuracy: 5404/6000 (90%)
+
+valid set: Average loss: 0.2788, Accuracy: 5375/6000 (90%)
+
+valid set: Average loss: 0.2827, Accuracy: 5368/6000 (89%)
+
+valid set: Average loss: 0.2647, Accuracy: 5418/6000 (90%)
+
+valid set: Average loss: 0.2743, Accuracy: 5388/6000 (90%)
+
+valid set: Average loss: 0.2562, Accuracy: 5431/6000 (91%)
+
+valid set: Average loss: 0.2590, Accuracy: 5437/6000 (91%)
+
+valid set: Average loss: 0.2617, Accuracy: 5428/6000 (90%)
+
+valid set: Average loss: 0.2836, Accuracy: 5395/6000 (90%)
+
+valid set: Average loss: 0.2494, Accuracy: 5444/6000 (91%)
+
+valid set: Average loss: 0.2607, Accuracy: 5435/6000 (91%)
+
+valid set: Average loss: 0.2603, Accuracy: 5432/6000 (91%)
+
+valid set: Average loss: 0.2525, Accuracy: 5467/6000 (91%)
+
+valid set: Average loss: 0.2486, Accuracy: 5464/6000 (91%)
+
+valid set: Average loss: 0.2533, Accuracy: 5446/6000 (91%)
+
+valid set: Average loss: 0.2515, Accuracy: 5467/6000 (91%)
+
+valid set: Average loss: 0.2594, Accuracy: 5441/6000 (91%)
+
+valid set: Average loss: 0.2550, Accuracy: 5436/6000 (91%)
+
+valid set: Average loss: 0.2495, Accuracy: 5451/6000 (91%)
+
+valid set: Average loss: 0.2436, Accuracy: 5463/6000 (91%)
+
+valid set: Average loss: 0.2490, Accuracy: 5447/6000 (91%)
+
+valid set: Average loss: 0.2477, Accuracy: 5447/6000 (91%)
+
+valid set: Average loss: 0.2430, Accuracy: 5466/6000 (91%)
+
+valid set: Average loss: 0.2407, Accuracy: 5462/6000 (91%)
+
+valid set: Average loss: 0.2404, Accuracy: 5472/6000 (91%)
+
+valid set: Average loss: 0.2525, Accuracy: 5446/6000 (91%)
+
+valid set: Average loss: 0.2398, Accuracy: 5489/6000 (91%)
+
+valid set: Average loss: 0.2394, Accuracy: 5496/6000 (92%)
+
+valid set: Average loss: 0.2361, Accuracy: 5487/6000 (91%)
+
+valid set: Average loss: 0.2337, Accuracy: 5489/6000 (91%)
+
+valid set: Average loss: 0.2331, Accuracy: 5504/6000 (92%)
+
+valid set: Average loss: 0.2520, Accuracy: 5437/6000 (91%)
+
+valid set: Average loss: 0.2467, Accuracy: 5448/6000 (91%)
+
+valid set: Average loss: 0.2351, Accuracy: 5492/6000 (92%)
+
+valid set: Average loss: 0.2419, Accuracy: 5483/6000 (91%)
+
+valid set: Average loss: 0.2430, Accuracy: 5474/6000 (91%)
+
+valid set: Average loss: 0.2300, Accuracy: 5486/6000 (91%)
+
+valid set: Average loss: 0.2341, Accuracy: 5485/6000 (91%)
+
+valid set: Average loss: 0.2399, Accuracy: 5470/6000 (91%)
+
+valid set: Average loss: 0.2319, Accuracy: 5485/6000 (91%)
+
+valid set: Average loss: 0.2313, Accuracy: 5500/6000 (92%)
+
+valid set: Average loss: 0.2326, Accuracy: 5494/6000 (92%)
+
+valid set: Average loss: 0.2341, Accuracy: 5502/6000 (92%)
+
+valid set: Average loss: 0.2236, Accuracy: 5507/6000 (92%)
+
+valid set: Average loss: 0.2347, Accuracy: 5506/6000 (92%)
+
+valid set: Average loss: 0.2437, Accuracy: 5467/6000 (91%)
+
+valid set: Average loss: 0.2315, Accuracy: 5478/6000 (91%)
+
+valid set: Average loss: 0.2312, Accuracy: 5497/6000 (92%)
+
+valid set: Average loss: 0.2415, Accuracy: 5475/6000 (91%)
+
+valid set: Average loss: 0.2311, Accuracy: 5510/6000 (92%)
+
+valid set: Average loss: 0.2325, Accuracy: 5492/6000 (92%)
+
+valid set: Average loss: 0.2294, Accuracy: 5517/6000 (92%)
+
+valid set: Average loss: 0.2278, Accuracy: 5504/6000 (92%)
+
+valid set: Average loss: 0.2273, Accuracy: 5518/6000 (92%)
+
+valid set: Average loss: 0.2283, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2382, Accuracy: 5493/6000 (92%)
+
+valid set: Average loss: 0.2338, Accuracy: 5492/6000 (92%)
+
+valid set: Average loss: 0.2331, Accuracy: 5491/6000 (92%)
+
+valid set: Average loss: 0.2276, Accuracy: 5509/6000 (92%)
+
+valid set: Average loss: 0.2294, Accuracy: 5502/6000 (92%)
+
+valid set: Average loss: 0.2374, Accuracy: 5473/6000 (91%)
+
+valid set: Average loss: 0.2310, Accuracy: 5513/6000 (92%)
+
+valid set: Average loss: 0.2290, Accuracy: 5487/6000 (91%)
+
+valid set: Average loss: 0.2214, Accuracy: 5513/6000 (92%)
+
+valid set: Average loss: 0.2257, Accuracy: 5541/6000 (92%)
+
+valid set: Average loss: 0.2302, Accuracy: 5525/6000 (92%)
+
+valid set: Average loss: 0.2240, Accuracy: 5497/6000 (92%)
+
+valid set: Average loss: 0.2290, Accuracy: 5530/6000 (92%)
+
+valid set: Average loss: 0.2305, Accuracy: 5500/6000 (92%)
+
+valid set: Average loss: 0.2322, Accuracy: 5496/6000 (92%)
+
+valid set: Average loss: 0.2302, Accuracy: 5509/6000 (92%)
+
+valid set: Average loss: 0.2325, Accuracy: 5514/6000 (92%)
+
+valid set: Average loss: 0.2273, Accuracy: 5518/6000 (92%)
+
+valid set: Average loss: 0.2272, Accuracy: 5512/6000 (92%)
+
+valid set: Average loss: 0.2203, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2221, Accuracy: 5524/6000 (92%)
+
+valid set: Average loss: 0.2268, Accuracy: 5517/6000 (92%)
+
+valid set: Average loss: 0.2271, Accuracy: 5515/6000 (92%)
+
+valid set: Average loss: 0.2191, Accuracy: 5531/6000 (92%)
+
+valid set: Average loss: 0.2262, Accuracy: 5528/6000 (92%)
+
+valid set: Average loss: 0.2322, Accuracy: 5513/6000 (92%)
+
+valid set: Average loss: 0.2240, Accuracy: 5520/6000 (92%)
+
+valid set: Average loss: 0.2199, Accuracy: 5533/6000 (92%)
+
+valid set: Average loss: 0.2238, Accuracy: 5532/6000 (92%)
+
+valid set: Average loss: 0.2223, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2335, Accuracy: 5499/6000 (92%)
+
+valid set: Average loss: 0.2240, Accuracy: 5521/6000 (92%)
+
+valid set: Average loss: 0.2230, Accuracy: 5535/6000 (92%)
+
+valid set: Average loss: 0.2219, Accuracy: 5531/6000 (92%)
+
+valid set: Average loss: 0.2238, Accuracy: 5535/6000 (92%)
+
+valid set: Average loss: 0.2205, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2292, Accuracy: 5529/6000 (92%)
+
+valid set: Average loss: 0.2255, Accuracy: 5532/6000 (92%)
+
+valid set: Average loss: 0.2223, Accuracy: 5537/6000 (92%)
+
+valid set: Average loss: 0.2245, Accuracy: 5541/6000 (92%)
+
+valid set: Average loss: 0.2218, Accuracy: 5535/6000 (92%)
+
+valid set: Average loss: 0.2148, Accuracy: 5547/6000 (92%)
+
+valid set: Average loss: 0.2195, Accuracy: 5528/6000 (92%)
+
+valid set: Average loss: 0.2255, Accuracy: 5508/6000 (92%)
+
+valid set: Average loss: 0.2214, Accuracy: 5533/6000 (92%)
+
+valid set: Average loss: 0.2260, Accuracy: 5531/6000 (92%)
+
+valid set: Average loss: 0.2284, Accuracy: 5510/6000 (92%)
+
+valid set: Average loss: 0.2276, Accuracy: 5529/6000 (92%)
+
+valid set: Average loss: 0.2238, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2212, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2283, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2311, Accuracy: 5498/6000 (92%)
+
+valid set: Average loss: 0.2386, Accuracy: 5507/6000 (92%)
+
+valid set: Average loss: 0.2190, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2204, Accuracy: 5543/6000 (92%)
+
+valid set: Average loss: 0.2216, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2234, Accuracy: 5532/6000 (92%)
+
+valid set: Average loss: 0.2205, Accuracy: 5542/6000 (92%)
+
+valid set: Average loss: 0.2207, Accuracy: 5545/6000 (92%)
+
+valid set: Average loss: 0.2267, Accuracy: 5521/6000 (92%)
+
+valid set: Average loss: 0.2150, Accuracy: 5538/6000 (92%)
+
+valid set: Average loss: 0.2200, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2179, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2199, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2151, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2171, Accuracy: 5544/6000 (92%)
+
+valid set: Average loss: 0.2292, Accuracy: 5530/6000 (92%)
+
+valid set: Average loss: 0.2264, Accuracy: 5522/6000 (92%)
+
+valid set: Average loss: 0.2108, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2174, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2215, Accuracy: 5532/6000 (92%)
+
+valid set: Average loss: 0.2299, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2273, Accuracy: 5522/6000 (92%)
+
+valid set: Average loss: 0.2176, Accuracy: 5535/6000 (92%)
+
+valid set: Average loss: 0.2312, Accuracy: 5512/6000 (92%)
+
+valid set: Average loss: 0.2268, Accuracy: 5529/6000 (92%)
+
+valid set: Average loss: 0.2185, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2246, Accuracy: 5529/6000 (92%)
+
+valid set: Average loss: 0.2171, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2277, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2273, Accuracy: 5520/6000 (92%)
+
+valid set: Average loss: 0.2296, Accuracy: 5501/6000 (92%)
+
+valid set: Average loss: 0.2265, Accuracy: 5525/6000 (92%)
+
+valid set: Average loss: 0.2260, Accuracy: 5539/6000 (92%)
+
+valid set: Average loss: 0.2257, Accuracy: 5556/6000 (93%)
+
+valid set: Average loss: 0.2236, Accuracy: 5513/6000 (92%)
+
+valid set: Average loss: 0.2171, Accuracy: 5578/6000 (93%)
+
+valid set: Average loss: 0.2191, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2253, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2279, Accuracy: 5527/6000 (92%)
+
+valid set: Average loss: 0.2263, Accuracy: 5543/6000 (92%)
+
+valid set: Average loss: 0.2173, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2191, Accuracy: 5542/6000 (92%)
+
+valid set: Average loss: 0.2251, Accuracy: 5539/6000 (92%)
+
+valid set: Average loss: 0.2226, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2341, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2202, Accuracy: 5521/6000 (92%)
+
+valid set: Average loss: 0.2320, Accuracy: 5516/6000 (92%)
+
+valid set: Average loss: 0.2299, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2294, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2249, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2124, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2268, Accuracy: 5538/6000 (92%)
+
+valid set: Average loss: 0.2128, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2160, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2347, Accuracy: 5531/6000 (92%)
+
+valid set: Average loss: 0.2300, Accuracy: 5543/6000 (92%)
+
+valid set: Average loss: 0.2329, Accuracy: 5543/6000 (92%)
+
+valid set: Average loss: 0.2210, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2385, Accuracy: 5517/6000 (92%)
+
+valid set: Average loss: 0.2242, Accuracy: 5543/6000 (92%)
+
+valid set: Average loss: 0.2184, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2172, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2228, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2257, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2230, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2200, Accuracy: 5547/6000 (92%)
+
+valid set: Average loss: 0.2227, Accuracy: 5545/6000 (92%)
+
+valid set: Average loss: 0.2240, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2428, Accuracy: 5519/6000 (92%)
+
+valid set: Average loss: 0.2380, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2357, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2211, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2309, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2243, Accuracy: 5541/6000 (92%)
+
+valid set: Average loss: 0.2259, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2260, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2209, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2234, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2250, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2270, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2251, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2235, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2200, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2319, Accuracy: 5528/6000 (92%)
+
+valid set: Average loss: 0.2336, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2257, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2321, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2302, Accuracy: 5531/6000 (92%)
+
+valid set: Average loss: 0.2287, Accuracy: 5528/6000 (92%)
+
+valid set: Average loss: 0.2306, Accuracy: 5540/6000 (92%)
+
+valid set: Average loss: 0.2261, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2304, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2337, Accuracy: 5544/6000 (92%)
+
+valid set: Average loss: 0.2230, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2290, Accuracy: 5535/6000 (92%)
+
+valid set: Average loss: 0.2268, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2264, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2321, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2285, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2309, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2254, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2255, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2223, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2168, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2358, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2316, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2231, Accuracy: 5556/6000 (93%)
+
+valid set: Average loss: 0.2210, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2329, Accuracy: 5540/6000 (92%)
+
+valid set: Average loss: 0.2386, Accuracy: 5537/6000 (92%)
+
+valid set: Average loss: 0.2287, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2292, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2399, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2299, Accuracy: 5556/6000 (93%)
+
+valid set: Average loss: 0.2273, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2270, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2194, Accuracy: 5577/6000 (93%)
+
+valid set: Average loss: 0.2300, Accuracy: 5534/6000 (92%)
+
+valid set: Average loss: 0.2262, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2372, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2352, Accuracy: 5536/6000 (92%)
+
+valid set: Average loss: 0.2258, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2214, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2310, Accuracy: 5547/6000 (92%)
+
+valid set: Average loss: 0.2358, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2328, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2255, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2378, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2157, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2190, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2313, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2306, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2323, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2273, Accuracy: 5549/6000 (92%)
+
+valid set: Average loss: 0.2405, Accuracy: 5540/6000 (92%)
+
+valid set: Average loss: 0.2365, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2229, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2338, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2324, Accuracy: 5545/6000 (92%)
+
+valid set: Average loss: 0.2362, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2348, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2332, Accuracy: 5577/6000 (93%)
+
+valid set: Average loss: 0.2315, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2333, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2307, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2207, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2334, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2246, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2321, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2280, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2299, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2367, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2399, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2381, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2285, Accuracy: 5576/6000 (93%)
+
+valid set: Average loss: 0.2288, Accuracy: 5576/6000 (93%)
+
+valid set: Average loss: 0.2322, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2189, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2362, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2469, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2350, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2262, Accuracy: 5586/6000 (93%)
+
+valid set: Average loss: 0.2256, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2324, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2393, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2308, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2416, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2280, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2425, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2375, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2323, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2305, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2390, Accuracy: 5526/6000 (92%)
+
+valid set: Average loss: 0.2386, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2322, Accuracy: 5546/6000 (92%)
+
+valid set: Average loss: 0.2314, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2414, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2402, Accuracy: 5556/6000 (93%)
+
+valid set: Average loss: 0.2438, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2379, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2340, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2478, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2337, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2459, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2255, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2424, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2341, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2421, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2398, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2377, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2390, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2402, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2260, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2260, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2427, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2364, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2414, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2361, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2374, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2317, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2412, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2369, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2398, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2392, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2427, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2268, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2467, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2462, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2467, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2443, Accuracy: 5595/6000 (93%)
+
+valid set: Average loss: 0.2381, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2415, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2416, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2264, Accuracy: 5594/6000 (93%)
+
+valid set: Average loss: 0.2551, Accuracy: 5544/6000 (92%)
+
+valid set: Average loss: 0.2484, Accuracy: 5540/6000 (92%)
+
+valid set: Average loss: 0.2465, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2356, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2260, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2327, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2362, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2379, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2481, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2350, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2399, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2513, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2428, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2394, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2514, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2346, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2453, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2444, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2409, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2438, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2369, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2364, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2391, Accuracy: 5593/6000 (93%)
+
+valid set: Average loss: 0.2452, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2517, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2496, Accuracy: 5556/6000 (93%)
+
+valid set: Average loss: 0.2428, Accuracy: 5547/6000 (92%)
+
+valid set: Average loss: 0.2561, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2437, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2367, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2458, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2419, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2500, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2439, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2460, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2404, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2393, Accuracy: 5584/6000 (93%)
+
+valid set: Average loss: 0.2314, Accuracy: 5585/6000 (93%)
+
+valid set: Average loss: 0.2456, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2384, Accuracy: 5586/6000 (93%)
+
+valid set: Average loss: 0.2467, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2380, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2340, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2364, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2461, Accuracy: 5561/6000 (93%)
+
+valid set: Average loss: 0.2496, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2557, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2433, Accuracy: 5588/6000 (93%)
+
+valid set: Average loss: 0.2522, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2329, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2413, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2574, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2423, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2390, Accuracy: 5576/6000 (93%)
+
+valid set: Average loss: 0.2445, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2396, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2566, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2391, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2453, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2495, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2496, Accuracy: 5576/6000 (93%)
+
+valid set: Average loss: 0.2477, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2595, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2575, Accuracy: 5547/6000 (92%)
+
+valid set: Average loss: 0.2639, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2550, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2492, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2470, Accuracy: 5592/6000 (93%)
+
+valid set: Average loss: 0.2457, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2375, Accuracy: 5592/6000 (93%)
+
+valid set: Average loss: 0.2414, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2441, Accuracy: 5587/6000 (93%)
+
+valid set: Average loss: 0.2477, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2434, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2357, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2414, Accuracy: 5580/6000 (93%)
+
+valid set: Average loss: 0.2448, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2513, Accuracy: 5565/6000 (93%)
+
+valid set: Average loss: 0.2504, Accuracy: 5551/6000 (93%)
+
+valid set: Average loss: 0.2434, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2510, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2494, Accuracy: 5578/6000 (93%)
+
+valid set: Average loss: 0.2545, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2522, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2489, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2489, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2509, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2460, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2382, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2744, Accuracy: 5552/6000 (93%)
+
+valid set: Average loss: 0.2474, Accuracy: 5590/6000 (93%)
+
+valid set: Average loss: 0.2535, Accuracy: 5576/6000 (93%)
+
+valid set: Average loss: 0.2589, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2501, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2497, Accuracy: 5577/6000 (93%)
+
+valid set: Average loss: 0.2571, Accuracy: 5548/6000 (92%)
+
+valid set: Average loss: 0.2524, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2634, Accuracy: 5550/6000 (92%)
+
+valid set: Average loss: 0.2497, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2460, Accuracy: 5574/6000 (93%)
+
+valid set: Average loss: 0.2527, Accuracy: 5562/6000 (93%)
+
+valid set: Average loss: 0.2510, Accuracy: 5553/6000 (93%)
+
+valid set: Average loss: 0.2453, Accuracy: 5587/6000 (93%)
+
+valid set: Average loss: 0.2538, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2586, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2460, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2554, Accuracy: 5566/6000 (93%)
+
+valid set: Average loss: 0.2392, Accuracy: 5578/6000 (93%)
+
+valid set: Average loss: 0.2485, Accuracy: 5577/6000 (93%)
+
+valid set: Average loss: 0.2488, Accuracy: 5560/6000 (93%)
+
+valid set: Average loss: 0.2404, Accuracy: 5593/6000 (93%)
+
+valid set: Average loss: 0.2620, Accuracy: 5563/6000 (93%)
+
+valid set: Average loss: 0.2616, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2475, Accuracy: 5578/6000 (93%)
+
+valid set: Average loss: 0.2564, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2524, Accuracy: 5559/6000 (93%)
+
+valid set: Average loss: 0.2472, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2503, Accuracy: 5581/6000 (93%)
+
+valid set: Average loss: 0.2462, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2482, Accuracy: 5593/6000 (93%)
+
+valid set: Average loss: 0.2479, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2435, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2502, Accuracy: 5587/6000 (93%)
+
+valid set: Average loss: 0.2469, Accuracy: 5572/6000 (93%)
+
+valid set: Average loss: 0.2670, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2461, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2561, Accuracy: 5564/6000 (93%)
+
+valid set: Average loss: 0.2428, Accuracy: 5575/6000 (93%)
+
+valid set: Average loss: 0.2500, Accuracy: 5590/6000 (93%)
+
+valid set: Average loss: 0.2443, Accuracy: 5569/6000 (93%)
+
+valid set: Average loss: 0.2567, Accuracy: 5582/6000 (93%)
+
+valid set: Average loss: 0.2473, Accuracy: 5584/6000 (93%)
+
+valid set: Average loss: 0.2561, Accuracy: 5597/6000 (93%)
+
+valid set: Average loss: 0.2554, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2558, Accuracy: 5558/6000 (93%)
+
+valid set: Average loss: 0.2483, Accuracy: 5586/6000 (93%)
+
+valid set: Average loss: 0.2460, Accuracy: 5584/6000 (93%)
+
+valid set: Average loss: 0.2401, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2558, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2509, Accuracy: 5579/6000 (93%)
+
+valid set: Average loss: 0.2617, Accuracy: 5568/6000 (93%)
+
+valid set: Average loss: 0.2514, Accuracy: 5590/6000 (93%)
+
+valid set: Average loss: 0.2670, Accuracy: 5578/6000 (93%)
+
+valid set: Average loss: 0.2546, Accuracy: 5554/6000 (93%)
+
+valid set: Average loss: 0.2585, Accuracy: 5571/6000 (93%)
+
+valid set: Average loss: 0.2613, Accuracy: 5555/6000 (93%)
+
+valid set: Average loss: 0.2602, Accuracy: 5570/6000 (93%)
+
+valid set: Average loss: 0.2585, Accuracy: 5557/6000 (93%)
+
+valid set: Average loss: 0.2382, Accuracy: 5581/6000 (93%)
+
+valid set: Average loss: 0.2593, Accuracy: 5573/6000 (93%)
+
+valid set: Average loss: 0.2478, Accuracy: 5567/6000 (93%)
+
+valid set: Average loss: 0.2542, Accuracy: 5585/6000 (93%)
+
+test set: Average loss: 0.2749, Accuracy: 9253/10000 (93%)
